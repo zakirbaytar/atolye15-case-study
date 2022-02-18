@@ -1,3 +1,5 @@
+// Notes are included in NOTES.md file. Please check it out to picture my thought process.
+
 type CustomFile = {
   id: string;
   name: string;
